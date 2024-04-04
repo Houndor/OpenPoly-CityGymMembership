@@ -1,0 +1,40 @@
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership\CityGymMembership\bin\Debug\CityGymMembership.exe.config
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership\CityGymMembership\bin\Debug\CityGymMembership.exe
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership\CityGymMembership\bin\Debug\CityGymMembership.pdb
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership\CityGymMembership\obj\Debug\CityGymMembership.csprojResolveAssemblyReference.cache
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership\CityGymMembership\obj\Debug\CityGymMembership.Form1.resources
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership\CityGymMembership\obj\Debug\CityGymMembership.Properties.Resources.resources
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership\CityGymMembership\obj\Debug\CityGymMembership.csproj.GenerateResource.Cache
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership\CityGymMembership\obj\Debug\CityGymMembership.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership\CityGymMembership\obj\Debug\CityGymMembership.exe
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership\CityGymMembership\obj\Debug\CityGymMembership.pdb
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership_0\CityGymMembership\bin\Debug\CityGymMembership.exe.config
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership_0\CityGymMembership\bin\Debug\CityGymMembership.exe
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership_0\CityGymMembership\bin\Debug\CityGymMembership.pdb
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.csprojResolveAssemblyReference.cache
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.Form1.resources
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.Properties.Resources.resources
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.csproj.GenerateResource.Cache
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.exe
+C:\Users\School\Desktop\School\Assignments\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.pdb
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_0\CityGymMembership\bin\Debug\CityGymMembership.exe.config
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_0\CityGymMembership\bin\Debug\CityGymMembership.exe
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_0\CityGymMembership\bin\Debug\CityGymMembership.pdb
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.csprojResolveAssemblyReference.cache
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.Properties.Resources.resources
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.csproj.GenerateResource.Cache
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.exe
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.pdb
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_Test output\CityGymMembership\obj\Debug\CityGymMembership.csprojResolveAssemblyReference.cache
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_Test output\CityGymMembership\obj\Debug\CityGymMembership.Properties.Resources.resources
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_Test output\CityGymMembership\obj\Debug\CityGymMembership.csproj.GenerateResource.Cache
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_Test output\CityGymMembership\obj\Debug\CityGymMembership.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_Test output\CityGymMembership\obj\Debug\CityGymMembership.exe
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_Test output\CityGymMembership\obj\Debug\CityGymMembership.pdb
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_Test output\CityGymMembership\bin\Debug\CityGymMembership.exe.config
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_Test output\CityGymMembership\bin\Debug\CityGymMembership.exe
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_Test output\CityGymMembership\bin\Debug\CityGymMembership.pdb
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_Test output\CityGymMembership\obj\Debug\CityGymMembership.CityGymMembership.resources
+C:\Users\School\Desktop\School\Assignments\Assignment 2\BIT502_2\CityGymMembership_0\CityGymMembership\obj\Debug\CityGymMembership.CityGymMembership.resources
